@@ -2,9 +2,8 @@
 
 An Electron application with React and TypeScript
 
-## Recommended IDE Setup
+![Screenshot 2024-12-17 021232](https://github.com/user-attachments/assets/cbe2e64b-6e02-4c1f-b3d3-96f3fab88fd0)
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Project Setup
 
